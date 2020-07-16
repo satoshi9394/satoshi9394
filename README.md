@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="main.css">
 <h1>
   Hello
 </h1>
@@ -8,7 +9,10 @@
 </h3>
 <br>
 <a href="https://www.linkedin.com/in/angel-santillan-brambila/">
-  <img height="50" src="https://image.flaticon.com/icons/svg/174/174857.svg"/>
+  <img 
+    height="50"
+    
+    src="https://image.flaticon.com/icons/svg/174/174857.svg"/>
 </a>
 <a href="https://twitter.com/angelsadefe18">
   <img height="50" src="https://image.flaticon.com/icons/svg/1409/1409937.svg"/>
