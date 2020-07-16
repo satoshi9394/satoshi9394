@@ -7,7 +7,7 @@
   Redes sociales
 </h3>
 <br>
-<a href="https://www.linkedin.com/in/angel-santillan-brambila/" __blank=true>
+<a href="https://www.linkedin.com/in/angel-santillan-brambila/" __blank=false>
   <img 
     height="50"
     src="https://image.flaticon.com/icons/svg/174/174857.svg"/>
