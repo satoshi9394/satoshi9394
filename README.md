@@ -14,8 +14,3 @@
     height="50"
     src="https://image.flaticon.com/icons/svg/174/174857.svg"/>
 </a>
-<a href="https://twitter.com/angelsadefe18" target="__blank"
-  style="padding: 10px;"
->
-  <img height="50" src="https://image.flaticon.com/icons/svg/1409/1409937.svg"/>
-</a>
