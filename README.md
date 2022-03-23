@@ -12,5 +12,5 @@
 >
   <img 
     height="50"
-    src="https://image.flaticon.com/icons/svg/174/174857.svg"/>
+    src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"/>
 </a>
